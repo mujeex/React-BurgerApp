@@ -1,5 +1,5 @@
 
-import {updateObject} from './utility'
+import {updateObject} from '../../../shared/utility'
 
 import * as actionTypes from '../actions/actionTypes'
 
